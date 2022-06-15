@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "address": "888 Genius Lane, Genius Grove, California",
+        "country": "United States",
+        "description": "Dee Dee, known best for her iconic phrase \"Oooh, what does this button do?\" ",
+        "price": 10000000,
+        "photo": "164558"
+    },
+    {
+        "id": 2,
+        "address": "100 Ora Oras, Morioh, M Prefecture",
+        "country": "Japan",
+        "description": "Jotaro, known best for his stand Star Platinum and his iconic phrase \"Yare Yare daze,\" which denotes his disinterest in everything other than killing Dio. ",
+        "price": 50000000,
+        "photo": "277667"
+    },
+    {
+        "id": 3,
+        "address": "42 Under Mushroom Room, Temmie Village, Undertale",
+        "country": "Unknown",
+        "description": "Temmie, known best for running the Tem Shop and saying, \"tem go to colleg and make u prouds!!!\" After Temmie returns, it says, \"tem bak from cool leg. tem learn MANY THINs...\" ",
+        "price": 2000000,
+        "photo": "534182"
+    },
+    {
+        "id": 4,
+        "address": "14 Lotus Leaf Drive, Konohagakure, Hi no Kuni",
+        "country": "Shinobi World",
+        "description": "Jiraiya, known as the Great Toad Sage, but possibly better known for his sex book series, much loved by Team 7's Kikashi. Naruto often refers to him as pervy sage. ",
+        "price": 70000000,
+        "photo": "259600"
+    },
+    {
+        "id": 5,
+        "address": "Classified, Classified",
+        "country": "Classified",
+        "description": "Codename: Solid Snake, best known as the protagonist of Metal Gear Solid, but possibly better known for his love of boxes. ",
+        "price": 1000000000,
+        "photo": "462358"
+    }
+]
