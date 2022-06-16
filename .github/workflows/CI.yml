@@ -12,7 +12,7 @@ jobs:
     strategy:
       matrix:
         node-version:
-          - 14.x
+          - 18.x
     steps:
       - uses: actions/checkout@v2
       - name: setup node
@@ -40,7 +40,6 @@ jobs:
         with:
           context: ./
           file: ./Dockerfile
-          push: true
           tags: ${{ secrets.DOCKER_USERNAME }}/react:latest
           image: 'sabean365/react:latest'
           registry: docker.io
