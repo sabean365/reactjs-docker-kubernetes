@@ -2,7 +2,7 @@
 ## Objectives ~ This is my personal "Capstone Project."<br>
 #### JavaScript Fundamentals to fully functional ReactJS pages. <br>
 >JavaScript files that cover variables, objects, and other components of the JS language<br>
->Create code examples of Java Foundations.<br>
+>Create code examples of JavaScript Foundations: can be found in this repo=> https://github.com/sabean365/javascript<br>
 #### Building knowledge of Reactjs<br>
 >Using Components with state and returns while inputing props.<br>
 >Using jsx<br>
